@@ -1,0 +1,19 @@
+{
+    "name": "app/app",
+    "description": "MVC university project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }, 
+        "files": [
+            "app/helpers/exception.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "LucasLima004",
+            "email": "lucaslimasl004@gmail.com"
+        }
+    ],
+    "require": {}
+}
